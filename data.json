@@ -4,14 +4,10 @@
     {"Name":"jane", "Age":22, "City":"Chicago"},
     {"Name":"mike", "Age":35, "City":"Houston"},
     {"Name":"linda", "Age":28, "City":"Phoenix"},
-    {"Name":"david", "Age":40, "City":"Philadelphia"},
-    {"Name":"susan", "Age":33, "City":"San Antonio"},
-    {"Name":"tom", "Age":26, "City":"San Diego"},
-    {"Name":"lucy", "Age":29, "City":"Dallas"},
-    {"Name":"james", "Age":31, "City":"San Jose"},
-    {"Name":"maria", "Age":27, "City":"New York"},
-    {"Name":"robert", "Age":34, "City":"Los Angeles"},
-    {"Name":"lisa", "Age":23, "City":"Chicago"},
-    {"Name":"mark", "Age":36, "City":"Houston"}
+    {"Name":"sara", "Age":32, "City":"Philadelphia"},
+    {"Name":"tom", "Age":27, "City":"San Antonio"},
+    {"Name":"kate", "Age":29, "City":"San Diego"},
+    {"Name":"paul", "Age":31, "City":"Dallas"}
 
 ]
+
