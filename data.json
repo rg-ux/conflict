@@ -1,8 +1,8 @@
 [
-    {"Name":swami, "Age":25, "City":"New York"},
-    {"Name":john, "Age":30, "City":"Los Angeles"},
-    {"Name":jane, "Age":22, "City":"Chicago"},
-    {"Name":mike, "Age":35, "City":"Houston"},
-    {"Name":linda, "Age":28, "City":"Phoenix"}
-    
+    {"Name":"swami", "Age":25, "City":"New York"},
+    {"Name":"john", "Age":30, "City":"Los Angeles"},
+    {"Name":"jane", "Age":22, "City":"Chicago"},
+    {"Name":"mike", "Age":35, "City":"Houston"},
+    {"Name":"linda", "Age":28, "City":"Phoenix"}
+
 ]
