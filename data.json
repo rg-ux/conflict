@@ -7,8 +7,7 @@
     {"Name":"sara", "Age":32, "City":"Philadelphia"},
     {"Name":"tom", "Age":27, "City":"San Antonio"},
     {"Name":"kate", "Age":29, "City":"San Diego"},
-    {"Name":"paul", "Age":31, "City":"Dallas"},
-    {"Name":"anna", "Age":24, "City":"San Jose"}
+    {"Name":"paul", "Age":31, "City":"Dallas"}
 
 ]
 
